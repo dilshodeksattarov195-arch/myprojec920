@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecelete",
+        "uuid": 4578840,
+        "checksum": "1s91mi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
